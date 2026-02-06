@@ -1,73 +1,31 @@
-# Welcome to your Lovable project
+# Sky Memory (Prayer Sky) 🕊️
 
-## Project info
+「思考と行動を軽く生きる」をテーマに。
+届かない想いや、手放したい感情を空へ放流するためのデジタル・サンクチュアリ。
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🌐 Live Demo
+**[sky-memory-b1c9bb5f.vercel.app]
+> ※ブラウザからすぐに体験いただけます。
 
-## How can I edit this code?
+## 🪐 Concept
+言葉にできない「祈り」を、ひこうき雲として空に描き、そのまま空へ溶かしていく。
+「執着を手放し、心を楽にする」ためのシンプルで美しい場所を目指して開発しました。
 
-There are several ways of editing your application.
+## ✨ Features
+- **Silent Connect:** 画面をなぞると、繊細なひこうき雲のようなラインが描けます。
+- **Evaporation Logic:** 描かれた軌跡は、数秒かけてゆっくりと空に溶け込み、消えていきます。
+- **Minimal Experience:** 塾講師として日々言葉を扱う中で辿り着いた、余計なものを削ぎ落とした「空と対話する」UI。
 
-**Use Lovable**
+## 🛠 Tech Stack
+- **Framework:** Lovable (Next.js / React)
+- **Language:** TypeScript (96.3%)
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🚩 Goal
+1年後に28万人の人の心が、この「空」を通して少しでも軽くなることを目標にしています。
 
-Changes made via Lovable will be committed automatically to this repo.
+---
+Created with Lovable & Aspiration for a lighter life.
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
