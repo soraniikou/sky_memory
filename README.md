@@ -4,7 +4,7 @@
 届かない想いや、手放したい感情を空へ放流するためのデジタル・サンクチュアリ。
 
 ## 🌐 Live Demo
-**[sky-memory-b1c9bb5f.vercel.app]
+**[https://sky-memory-b1c9bb5f.vercel.app]
 > ※ブラウザからすぐに体験いただけます。
 
 ## 🪐 Concept
