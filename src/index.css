@@ -163,4 +163,26 @@
   .animate-page-fade-in {
     animation: page-fade-in 2s ease-out forwards;
   }
+
+  /* Hint text that fades out after a delay */
+  @keyframes hint-fade {
+    0% {
+      opacity: 0;
+    }
+    15% {
+      opacity: 1;
+    }
+    70% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
+  .animate-hint-fade {
+    animation: hint-fade 8s ease-in-out forwards;
+    animation-delay: 1s;
+    opacity: 0;
+  }
 }
