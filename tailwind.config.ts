@@ -47,6 +47,21 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        sky: {
+          top: "hsl(var(--sky-top))",
+          mid: "hsl(var(--sky-mid))",
+          bottom: "hsl(var(--sky-bottom))",
+        },
+        cloud: {
+          white: "hsl(var(--cloud-white))",
+          glow: "hsl(var(--cloud-glow))",
+        },
+        sunset: {
+          warm: "hsl(var(--sunset-warm))",
+        },
+        prayer: {
+          text: "hsl(var(--prayer-text))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
