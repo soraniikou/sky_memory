@@ -28,16 +28,28 @@ const Index = () => {
       {/* Text prayer input & floating messages */}
       <FloatingPrayer />
 
-      {/* Minimal title - fades after a few seconds */}
+      {/* Minimal title */}
       <div className="absolute top-8 left-0 right-0 z-20 flex justify-center pointer-events-none">
         <h1
-          className="text-prayer-text/60 text-xs md:text-sm font-light tracking-[0.3em] animate-breathe"
+          className="text-prayer-text/60 text-xs md:text-sm font-extralight tracking-[0.3em] animate-breathe"
           style={{
             textShadow: "0 0 20px rgba(255,255,255,0.3)",
           }}
         >
           祈りの空
         </h1>
+      </div>
+
+      {/* Gentle instruction text */}
+      <div className="absolute inset-0 z-20 flex items-center justify-center pointer-events-none">
+        <p
+          className="text-prayer-text/30 text-sm md:text-lg font-extralight tracking-[0.25em] animate-hint-fade"
+          style={{
+            textShadow: "0 0 30px rgba(255,255,255,0.15)",
+          }}
+        >
+          あなたの想いを　自由にマウスで書いて
+        </p>
       </div>
     </div>
   );
