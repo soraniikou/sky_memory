@@ -5,7 +5,10 @@
 
 ## 🌐 Live Demo
 **[https://sky-memory-b1c9bb5f.vercel.app]
-> ※ブラウザからすぐに体験いただけます。
+ ※ブラウザからすぐに体験いただけます。
+ <img width="503" height="471" alt="inori" src="https://github.com/user-attachments/assets/64d076b6-b4b3-4308-b76d-425cb55a0fdd" />
+
+ 
 
 ## 🪐 Concept
 言葉にできない「祈り」を、ひこうき雲として空に描き、そのまま空へ溶かしていく。
